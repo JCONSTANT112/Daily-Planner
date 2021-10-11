@@ -22,17 +22,17 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 
 
 # Summary
-* HTML and CSS and Javascript documents create a quiz with multiple choice questions with coding related trivia
-* This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document
-* This project utilizes the use of appending HTML pages
+* HTML and CSS, Javascript documents along with external sources create a daily work planner that allows you to add and remove tasks to a time slot.
+* This project emphasizes the use of using moment.js to adhere to to the requirements of utilizing a time based updating planner based on the actual time of day.
+* When a task is on time or past the alloted time the box will change color.
 
-# This project has the following features: 
-    * A Start Quiz button 
-    * This starts a timer for the user
-    * Then the user is presented with multiple choice questions.
-    * Then the user loses time for every wrong answer and has 90 seconds to complete the quiz.
-    * The quiz is over when all questions are answered or the timer runs out.
-    * The user is then given the chance to save their highscore.
+# This project has the following features 
+    * A series of time slots boxes that allow for user input.
+    * A save button that allows the inputted task to be saved via local storage.
+    * Then the user is presented with the task saved in a time slot.
+    * Then the task will change from green to red as the allocated time is passed.
+    * A user can remove tasks by deleting the input and selecting the save button.
+    
 
 # Authors
  Jacob Constantinidis 
