@@ -7,7 +7,7 @@ This work day planner utilizes HTML, CSS, Javascript and external sources such a
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
 * [GitHub Repository](https://github.com/JCONSTANT112/Daily-Planner)
-* [Deployed GitHub IO](https://jconstant112.github.io/Coding-Assessment-Quiz/)
+* [Deployed GitHub IO](https://jconstant112.github.io/Daily-Planner/)
 
 # Project screenshot
 !["exampleimg1"](./assets/images/Screenshot.png)
