@@ -10,8 +10,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 * [Deployed GitHub IO](https://jconstant112.github.io/Coding-Assessment-Quiz/)
 
 # Project screenshot
-!["exampleimg1"](./assets/images/Screenshot-Quiz-Game.png)
-!["exampleimg2"](./assets/images/Screenshot2-Quiz-Game.png)
+!["exampleimg1"](./assets/images/Screenshot.png)
 
 # Prerequisites
 
